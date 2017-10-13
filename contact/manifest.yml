@@ -1,0 +1,7 @@
+---
+applications:
+- name: contact
+  memory: 1G
+  instances: 1
+  services:
+    - serviceRegistry
